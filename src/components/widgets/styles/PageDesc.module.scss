@@ -1,0 +1,11 @@
+@use "../../../color.module" as c;
+
+.pageDesc {
+    padding: 15px 20px;
+    background-color: c.$grey;
+    p {
+        margin: 0;
+        font-size: 12px;
+        color: c.$blue_dark;
+    }
+}

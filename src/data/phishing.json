@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "icon-email.svg",
+        "title": "What's a phishing email?",
+        "desc": "Phishing emails are messages made to look as though they were sent from a bank, credit card company or other trusted organisation."
+    },
+    {
+        "icon": "icon-data.svg",
+        "title": "What do they contain?",
+        "desc": "Fraudsters will typically try to trick you into clicking through to a fake website. You may be told that if you don't follow the link and perform certain actions, your account will be suspended.\nOnce on the fake site, you could be asked to enter sensitive information, such as your login details, password or account number. Like phishing emails, the site may look authentic."
+    },
+    {
+        "icon": "icon-spot.svg",
+        "title": "How can I spot one?",
+        "desc": "If you think you might have received an American Express® like phishing email, the first thing to do is check the email address it was sent from.\nIf we're emailing you about your Account, the message will usually also contain your first and last name and the last few digits of your Account number."
+    }
+]

@@ -1,0 +1,12 @@
+@use '../../../color.module' as c;
+.slideCtr {
+    img {
+        width: 80px;
+    }
+    h2 {
+        margin-bottom: 20px;
+    }
+    div p {
+        color: c.$black;
+    }
+}

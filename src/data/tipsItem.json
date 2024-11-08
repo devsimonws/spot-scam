@@ -1,0 +1,17 @@
+[
+    {
+        "img": "tip-error-1.jpg",
+        "title": "SCAM TIP#1",
+        "desc": "Authentic emails usually address recipients by their preferred name or initials, instead of a generic term. Emails from American Express would usually carry details such as the last 5 digit of your account and/or the starting year of membership."
+    },
+    {
+        "img": "tip-error-2.jpg",
+        "title": "SCAM TIP#2",
+        "desc": "Grammatical and spelling errors are often spotted in email scams. If you are unsure, always call the number on the back of your Card to check."
+    },
+    {
+        "img": "tip-error-3.jpg",
+        "title": "SCAM TIP#3",
+        "desc": "Hover your cursor over a given link to check the URL is what you expect it to be. If in doubt, call the number on the back of your Card to check."
+    }
+]

@@ -1,0 +1,41 @@
+@use "../../color.module" as c;
+
+.contentCtr {
+    margin-bottom: 60px;
+    
+    h1 {
+        margin-bottom: 40px;
+        font-size: 30px;
+    }
+
+    .scoreCtr {
+        margin-bottom: 40px;
+        p {
+            font-size: 16px;
+            margin: 0;
+        }
+        .score {
+            font-family: BentonSans,sans-serif;
+            font-size: 20px;
+            font-weight: 700;
+        }
+    }
+}
+
+.btn {
+    margin-bottom: 30px;
+}
+
+.socialCtr {
+    margin-top: 60px;
+
+    p {
+        font-size: 12px;
+    }
+    
+    .iconsCtr {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+}

@@ -1,0 +1,23 @@
+.imgCtr {
+    margin: 30px 0;
+    position: relative;
+    .pointer {
+        width: 25px;
+        height: 25px;
+        position: absolute;
+        left: 40%;
+        bottom: 20px;
+        animation: move 4s ease-in-out infinite alternate;
+
+        @keyframes move {
+            0% {left: 40%;}
+            20% {left: 40%;}
+            80% {left: 85%;}
+            100% {left: 85%;}
+        }
+    }
+}
+
+.btn {
+    width: 200px;
+}

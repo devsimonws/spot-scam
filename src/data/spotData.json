@@ -1,0 +1,68 @@
+[
+    {
+        "img": "Scam1.jpg",
+        "isScam": "scam",
+        "correct": "You selected ‘Scam’. And you are right! The misspelling of ‘American Express in the email address the message was sent from is a telltale sign. Always ascertain that emails are sent from American Express email accounts. \nVisit our Security Centre to find out the list of email addresses that we usually email you from.",
+        "wrong": "This email is suspicious as the sender’s email address misspells American Express. Your Card information is also missing. Always ascertain that emails are sent from American Express email accounts. \nVisit our Security Centre to find out the list of email addresses that we usually email you from."
+    },
+    {
+        "img": "Scam2.jpg",
+        "isScam": "scam",
+        "correct": "You selected ‘Scam’. And you are right! The email does not address you by name and lacks Card Member information. The email address does not belong to American Express. \nVisit our Security Centre to find out the list of email addresses that we usually email you from.",
+        "wrong": "This email does not address by name and lacks Card Member information. In addition, the email address does not belong to American Express. \nVisit our Security Centre to find out the list of email addresses that we usually email you from."
+    },
+    {
+        "img": "Scam3.jpg",
+        "isScam": "scam",
+        "correct": "You selected ‘Scam’. And you are right! The email does not address you by name and contains spelling mistakes. The sender’s email address also does not belong to American Express. \nVisit our Security Centre to find out the list of email addresses that we usually email you from.",
+        "wrong": "The email does not address you by name and contains spelling mistakes. The sender’s email address also does not belong to American Express. \nVisit our Security Centre to find out the list of email addresses that we usually email you from."
+    },
+    {
+        "img": "Scam4.jpg",
+        "isScam": "scam",
+        "correct": "You selected ‘Scam’. And you are right! The email content is poorly worded, with many spelling and grammatical errors. Beware of such emails and clicking on any external links provided. \nVisit our Security Centre for more tips on how to avoid scams and stay safe online.",
+        "wrong": "The email content is poorly worded, with many spelling and grammatical errors. In addition, the email address which the message was sent from does not belong to American Express. \nVisit our Security Centre for more tips on how to avoid scams and stay safe online."
+    },
+    {
+        "img": "Scam5.jpg",
+        "isScam": "scam",
+        "correct": "You selected ‘Scam’. And you are right! Apart from the lack of proper addressing and lack of Card Member information, the email address which the message was sent from does not belong to American Express. Be alert of emails or messages that ask you to act urgently. \nVisit our Security Centre for more tips on how to avoid scams and stay safe online.",
+        "wrong": "There is a lack of proper addressing as well as Card Member information. In addition, the email address which the message was sent from does not belong to American Express. \nVisit our Security Centre for more tips on how to avoid scams and stay safe online."
+    },
+    {
+        "img": "Scam6.jpg",
+        "isScam": "scam",
+        "correct": "You selected ‘Scam’. And you are right! American Express will never ask for your personal or Card details and/or security codes through email. \nWe will usually invite you to save Offer to Card through our mobile app, or a secure enrollment website. If in doubt, contact us at the number on the back of your Card.",
+        "wrong": "American Express will usually invite you to save Offer to Card through our mobile app, or a secure enrollment website. \nBe extra vigilant when emails ask you to divulge confidential information. If in doubt, contact us at the number on the back of your Card."
+    },
+    {
+        "img": "Scam7.jpg",
+        "isScam": "scam",
+        "correct": "You selected ‘Scam’. And you are right! \nThis may look like an authentic email from American Express but it’s not. Always ascertain that emails are sent from American Express email accounts. \nVisit our Security Centre for a list of genuine American Express email addresses.",
+        "wrong": "This may look like an authentic email from American Express but it’s not. Always ascertain that emails are sent from American Express email accounts. \nVisit our Security Centre for a list of genuine American Express email addresses."
+    },
+    {
+        "img": "Genuine1.jpg",
+        "isScam": "genuine",
+        "correct": "You selected ‘Genuine’ and you are right! \nAuthentic American Express emails address Card Members by their preferred name or initials. \nThe email is also sent from a verified email address. Visit our Security Centre to find out the list of email addresses that we usually email you from.",
+        "wrong": "You selected ‘Scam’, however, this is a genuine email. Authentic American Express emails address Card Members by their preferred name or initials. The email is also sent from a verified email address. \nVisit our Security Centre to find out the list of email addresses that we usually email you from."
+    },
+    {
+        "img": "Genuine2.jpg",
+        "isScam": "genuine",
+        "correct": "You selected ‘Genuine’ and you are right! \nAuthentic American Express emails address Card Members by their preferred name or initials. \nAs this is a dedicated reply to an enquiry, links are included for reference and convenience. As a precaution, hover over the link to check that the URL is what you expect it to be before clicking through. ",
+        "wrong": "You selected ‘Scam’, however, this is a genuine email. Authentic American Express emails address Card Members by their preferred name or initials. \nAs this is a dedicated reply to an enquiry, links are provided for reference and convenience. As a precaution, hover over the link to check that the URL is what you expect it to be before clicking through."
+    },
+    {
+        "img": "Genuine3.jpg",
+        "isScam": "genuine",
+        "correct": "You selected ‘Genuine’ and you are right! \nThis email is sent from a verified American Express email address. The Card Member information on the top right corner also helps to verify American Express as sender of the email. \nVisit our Security Centre to find out the list of email addresses that we usually email you from.",
+        "wrong": "You selected ‘Scam’, however, this is a genuine email. This email is sent from a verified American Express email address. The Card Member information on the top right corner also helps to verify American Express as sender of the email. \nVisit our Security Centre to find out the list of email addresses that we usually email you from."
+    },
+    {
+        "img": "Genuine4.jpg",
+        "isScam": "genuine",
+        "correct": "You selected ‘Genuine’ and you are right! \nFrom time to time, American Express may commission third-party agencies to conduct survey on behalf of the company. \nAlways ascertain that the email is sent from a verified email address. If in doubt, contact us at the number on the back of your Card.",
+        "wrong": "You selected ‘Scam’, however, this is a genuine email. From time to time, American Express may commission third-party agencies to conduct survey on behalf of the company. \nAlways ascertain that the email is sent from a verified email address. If in doubt, contact us at the number on the back of your Card."
+    }
+]

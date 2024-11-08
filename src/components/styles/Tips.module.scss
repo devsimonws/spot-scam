@@ -1,0 +1,28 @@
+.strong {
+    font-family: BentonSans, sans-serif;
+    font-weight: 700;
+}
+
+.defaultImgCtr {
+    position: relative;
+    img {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+}
+
+.HighlightImgCtr {
+    opacity: 0;
+    animation: opacity .3s ease-in 1.5s forwards;
+    @keyframes opacity {
+        from {opacity: 0;}
+        to {opacity: 1;}
+    }
+    .btnsCtr {
+        margin-top: 40px;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+}

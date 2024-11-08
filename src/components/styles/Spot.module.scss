@@ -1,0 +1,13 @@
+@use "../../color.module" as c;
+
+.link {
+    font-weight: 700;
+    color: c.$blue_dark
+}
+
+.spotItemOuterCtr {
+    flex: 1;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+}

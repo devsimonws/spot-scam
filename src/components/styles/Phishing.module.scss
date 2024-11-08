@@ -1,0 +1,26 @@
+@use "../../color.module" as c;
+
+.close {
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: 0;
+    background-color: unset;
+    transition: .3s;
+    &:hover {
+        transform: rotate(180deg);
+    }
+}
+
+.slideCtr {
+    padding: 20px;
+    padding-bottom: 30px;
+    border-radius: 12px;
+    margin: 30px 0;
+    background-color: c.$white;
+}
+
+.icon {
+    width: 40px;
+}

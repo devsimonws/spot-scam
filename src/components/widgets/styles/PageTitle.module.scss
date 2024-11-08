@@ -1,0 +1,6 @@
+@use "../../../color.module" as c;
+
+.pageTitle {
+    padding: 15px 20px;
+    background-color: c.$blue_light;
+}
